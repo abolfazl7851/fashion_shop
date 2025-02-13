@@ -1,6 +1,6 @@
 # fashion
 
-A new Flutter project.
+A new Flutter & ِ Django project.
 
 ## Getting Started
 
