@@ -1,6 +1,8 @@
 # fashion
 
 A new Flutter & ِ Django project.
+![iphone-multiple-screens-mockup](https://github.com/user-attachments/assets/14fc6071-bab3-4ead-b701-623088d59943)
+
 
 ## Getting Started
 
